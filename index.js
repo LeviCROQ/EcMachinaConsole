@@ -30,6 +30,5 @@ while(formattedInput != 'EXIT') {
         for(let i = 0; i < userList.length; i++) {
             console.log(`User ${i+1}: ${userList[i]}`);
         }
-
     }
 }
