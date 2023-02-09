@@ -1,0 +1,22 @@
+{
+  "name": "ecmachinaconsole",
+  "version": "1.0.0",
+  "description": "Simple command line programme",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LeviCROQ/EcMachinaConsole.git"
+  },
+  "author": "Levi Cole",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LeviCROQ/EcMachinaConsole/issues"
+  },
+  "homepage": "https://github.com/LeviCROQ/EcMachinaConsole#readme",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
+}
